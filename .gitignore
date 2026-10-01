@@ -1,0 +1,4 @@
+# scrape cache — regenerable, large
+data/raw/
+__pycache__/
+*.pyc
